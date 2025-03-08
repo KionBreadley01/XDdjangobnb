@@ -15,4 +15,3 @@ const MyReservationsPage = () => {
     )
 }
 export default MyReservationsPage;
-<h1>minuto 1.58.48 de video </h1>
