@@ -15,7 +15,7 @@ const ConversationDetail =() =>{
             </div>
 
         </div>
-        <div className="mt-4 py-4 px-6 flex border border-gray-300 space-x-4 rounded-xl">
+        <div className="mt-8 py-4 px-6 flex border border-gray-300 space-x-4 rounded-xl">
             <input 
             type="text"
             placeholder="Type your message...."
@@ -24,7 +24,7 @@ const ConversationDetail =() =>{
             <ContactButton 
             label="Send"
             onClick={() => console.log("Clicked")}
-            className="w-[100px]"
+            className="w-[90px]"
             />
         </div>
         </>
