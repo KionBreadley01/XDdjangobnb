@@ -13,7 +13,7 @@ export async function handleLogin(userId: string, accessToken: string, refreshTo
     (await cookies()).set('session_access_token', accessToken, { // Corregido userId por accessToken
         httpOnly: true,
         secure: process.env.NODE_ENV === 'production',
-        maxAge: 60 * 60 * 24 * 7,
+        maxAge: 60 * 60,
         path: '/'
     });
 
