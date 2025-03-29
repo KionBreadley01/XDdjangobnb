@@ -15,7 +15,7 @@ const Categories = () => {
 
             <div className="pb-4 flex flex-col items-center space-y-2 border-white opacity-60 hover:border-gray-200 hover:opacity-100">
                 <Image
-                    src="/icn_category.png"
+                    src="/icn_category_beach.jpeg"
                     alt="Category icon"
                     width={20}
                     height={20}
@@ -26,7 +26,7 @@ const Categories = () => {
 
             <div className="pb-4 flex flex-col items-center space-y-2 border-white opacity-60 hover:border-gray-200 hover:opacity-100">
                 <Image
-                    src="/icn_category.png"
+                    src="/icn_category_beach.jpeg"
                     alt="Category icon"
                     width={20}
                     height={20}
@@ -37,7 +37,7 @@ const Categories = () => {
 
             <div className="pb-4 flex flex-col items-center space-y-2 border-white opacity-60 hover:border-gray-200 hover:opacity-100">
                 <Image
-                    src="/icn_category.png"
+                    src="/icn_category_beach.jpeg"
                     alt="Category icon"
                     width={20}
                     height={20}
