@@ -51,4 +51,4 @@ const PropertyDetailPage = () => {
     )
 }
 
-export default PropertyDetailPage
+export default PropertyDetailPage;
